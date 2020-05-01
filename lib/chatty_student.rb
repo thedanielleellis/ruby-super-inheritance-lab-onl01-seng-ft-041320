@@ -8,5 +8,6 @@ end
   
   def raise_hand 
     super()
+    @raise_hand
   end
 end 
