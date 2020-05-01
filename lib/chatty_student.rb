@@ -7,7 +7,7 @@ def hello
 end 
   
   def raise_hand 
-    super(10)
-    @raise_hand
+    super
+    @raise_hand.10
   end
 end 
