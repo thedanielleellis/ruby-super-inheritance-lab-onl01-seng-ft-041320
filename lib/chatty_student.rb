@@ -6,6 +6,6 @@ def hello
 end 
   
   def raise_hand 
-    super.count(10)
+    super(10)
   end
 end 
