@@ -7,7 +7,7 @@ def hello
 end 
   
   def raise_hand 
+    10.times.do
     super
-    @raise_hand.10
   end
 end 
